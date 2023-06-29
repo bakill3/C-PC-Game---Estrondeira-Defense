@@ -12,10 +12,10 @@
   - A live system that adds challenge and promotes strategic thinking to survive the enemy waves.
 
 ### **Currency System:**
-Kill enemies to earn in-game currency. The more enemies you defeat, the richer you become, unlocking the ability to deploy more powerful turrets.
+  - Kill enemies to earn in-game currency. The more enemies you defeat, the richer you become, unlocking the ability to deploy more powerful turrets.
 
 ### **Deployable Turrets:**
-Players can strategically plant turrets on the game field to fend off waves of enemies, reminiscent of the gameplay mechanics in Plants vs Zombies. 
+  - Players can strategically plant turrets on the game field to fend off waves of enemies, reminiscent of the gameplay mechanics in Plants vs Zombies. 
 
 ### **Versatile Turret Types:**
 Three unique turret types each with their own animations and powers:
@@ -24,9 +24,9 @@ Three unique turret types each with their own animations and powers:
 - Slowdown Turret: Decelerates enemies while continuously inflicting damage.
 
 ### **Turret Upgrades & Selling:**
-Players can choose to upgrade their turrets for enhanced firepower or sell them for a fraction of the original cost, adding another layer of strategic decision-making to the gameplay.
+  - Players can choose to upgrade their turrets for enhanced firepower or sell them for a fraction of the original cost, adding another layer of strategic decision-making to the gameplay.
 
 ### **Level Progression:**
-Engage in an escalating challenge across three distinct levels, each demanding a different strategy to prevail.
+  - Engage in an escalating challenge across three distinct levels, each demanding a different strategy to prevail.
 
 ![Game Image](https://github.com/bakill3/C-PC-Game---Estrondeira-Defense/blob/master/imagem.png)
