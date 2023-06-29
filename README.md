@@ -6,10 +6,10 @@
 ## **Key Features:**
 
 ### **Interactive Menu:**
-Users are greeted by a user-friendly menu providing options to play, adjust settings (like volume and resolution), or exit the game.
+  - Users are greeted by a user-friendly menu providing options to play, adjust settings (like volume and resolution), or exit the game.
 
 ### **In-Game Lives:**
-A live system that adds challenge and promotes strategic thinking to survive the enemy waves.
+  - A live system that adds challenge and promotes strategic thinking to survive the enemy waves.
 
 ### **Currency System:**
 Kill enemies to earn in-game currency. The more enemies you defeat, the richer you become, unlocking the ability to deploy more powerful turrets.
